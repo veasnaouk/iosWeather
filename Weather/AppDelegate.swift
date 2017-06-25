@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Weather
 //
-//  Created by Neat Ouk on 6/25/17.
+//  Created by Veasna Ouk on 6/25/17.
 //  Copyright © 2017 Veasna Ouk. All rights reserved.
 //
 
